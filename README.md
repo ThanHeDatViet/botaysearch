@@ -1,2 +1,2 @@
 # botaysearch
-Công cụ tìm kiếm 100% made in Vietnam!!!
+dự án bị toi quăng vào sọt rác :v
